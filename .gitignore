@@ -33,12 +33,9 @@ hf_cache/
 .env.local
 *.token
 
-# Planning artifacts (internal use only)
-SPEC.md
-tasks/
-
 # Editor / OS
 .DS_Store
 .idea/
 .vscode/
 *.swp
+tasks/patch_colab.py
