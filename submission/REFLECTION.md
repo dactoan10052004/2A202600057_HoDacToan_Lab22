@@ -117,11 +117,11 @@ Theo lý thuyết alignment tax (deck §8.1), DPO thường giảm GSM8K (math r
 ## Bonus
 
 - [ ] Đã làm β-sweep (rigor add-on +6)
-- [ ] Đã push lên HuggingFace Hub (Submission Option B, +5)
+- [x] Đã push lên HuggingFace Hub (Submission Option B, +5) → https://huggingface.co/dactoan123/lab22-dpo-vn
 - [ ] Đã release GGUF với multiple quantizations (+3)
-- [ ] Đã link W&B run public (+2)
+- [x] Đã link W&B run public (+2) → https://wandb.ai/dactoan10052004-fpt-university/lab22-dpo/runs/nhkkionp
 - [ ] Đã làm cross-judge comparison (+4)
-- [ ] Đã làm `BONUS-CHALLENGE.md` provocation (ungraded — link `bonus/` folder)
+- [x] Đã làm `BONUS-CHALLENGE.md` provocation (ungraded — link [`bonus/`](../bonus/)): "Tư Vấn Tuyển Sinh Đại Học" — Vietnamese University Admissions Advisor. SPEC + PLAN trong `bonus/README.md` và `bonus/PLAN.md`.
 - [ ] Pair work với: _không có_
 
 ---
