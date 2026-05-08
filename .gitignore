@@ -33,6 +33,10 @@ hf_cache/
 .env.local
 *.token
 
+# Planning artifacts (internal use only)
+SPEC.md
+tasks/
+
 # Editor / OS
 .DS_Store
 .idea/
