@@ -274,7 +274,7 @@ Phải in số > 0.
    ---
    base_model: unsloth/Qwen2.5-3B-bnb-4bit
    datasets:
-     - 5CD-AI/Vietnamese-alpaca-cleaned
+     - saillab/alpaca-vietnamese-cleaned
      - argilla/ultrafeedback-binarized-preferences-cleaned
    language: vi
    tags: [dpo, alignment, vietnamese, lora]
